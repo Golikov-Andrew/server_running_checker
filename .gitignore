@@ -1,0 +1,5 @@
+telegram_notifier/
+.idea/
+.env
+telegram_notifier_log.txt
+**__pycache__
